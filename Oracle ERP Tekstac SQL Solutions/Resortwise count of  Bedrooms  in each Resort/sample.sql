@@ -1,0 +1,1 @@
+select resortID, sum(bedroomcount) as TOTALCOUNT from CABIN group by resortID order by resortID asc;

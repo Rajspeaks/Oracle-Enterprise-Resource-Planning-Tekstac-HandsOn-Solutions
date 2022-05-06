@@ -1,0 +1,1 @@
+select * from COURSE order by COURSEID asc ;

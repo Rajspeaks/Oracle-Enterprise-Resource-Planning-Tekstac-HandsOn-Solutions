@@ -1,0 +1,1 @@
+delete from RESORT where resortId='1002';

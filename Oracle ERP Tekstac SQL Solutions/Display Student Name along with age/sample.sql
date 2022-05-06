@@ -1,0 +1,1 @@
+select StudId, FirstName, trunc((SYSDATE - DOB)/366,0) as AGE from STUDENT order by StudId;

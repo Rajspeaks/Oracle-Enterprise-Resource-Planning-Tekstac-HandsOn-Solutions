@@ -1,0 +1,1 @@
+select initcap(Name) AS GUESTNAME from GUEST order BY GUESTNAME;

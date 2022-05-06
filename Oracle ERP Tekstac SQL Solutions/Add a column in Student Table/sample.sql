@@ -1,0 +1,1 @@
+alter table STUDENT add(Age number(2));

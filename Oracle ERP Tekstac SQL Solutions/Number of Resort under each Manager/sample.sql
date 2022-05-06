@@ -1,0 +1,1 @@
+select managerID, count(resortID) as NUMBEROFRESORT from RESORT where starRating=4 or starRating>4 group by managerID order by managerID asc;

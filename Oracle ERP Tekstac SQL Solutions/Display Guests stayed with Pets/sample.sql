@@ -1,0 +1,1 @@
+select REVIEW.guestID, REVIEW.resortID, trunc(todate - fromdate) as numberofdays, adultCount, childCount, petcount, totalcharge from REVIEW, BOOKING where (REVIEW.guestID=BOOKING.guestID and REVIEW.resortID=BOOKING.resortID) and (BOOKING.childCount>0 and BOOKING.petcount>0) order by petcount desc;

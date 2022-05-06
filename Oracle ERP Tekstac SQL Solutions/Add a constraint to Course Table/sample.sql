@@ -1,0 +1,1 @@
+alter table COURSE add constraint CHK_FEES check (Fees>0);

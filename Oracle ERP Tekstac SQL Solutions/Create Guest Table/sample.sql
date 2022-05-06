@@ -1,0 +1,1 @@
+create table GUEST(guestID number primary key, name varchar(30), address varchar(30), country varchar(20), email varchar(30), phone varchar(15));

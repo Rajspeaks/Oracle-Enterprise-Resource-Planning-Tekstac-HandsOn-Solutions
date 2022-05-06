@@ -1,0 +1,1 @@
+update STUDENT set Street='Andheri West', City='Mumbai' where FirstName='Abdul';

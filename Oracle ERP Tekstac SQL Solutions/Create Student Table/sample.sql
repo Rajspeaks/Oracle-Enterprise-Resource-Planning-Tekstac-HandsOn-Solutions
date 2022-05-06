@@ -1,0 +1,1 @@
+create table STUDENT(Studid number(4) PRIMARY KEY, FirstName varchar(20), LastName varchar(20), Street varchar(20), City varchar(20), DOB date);

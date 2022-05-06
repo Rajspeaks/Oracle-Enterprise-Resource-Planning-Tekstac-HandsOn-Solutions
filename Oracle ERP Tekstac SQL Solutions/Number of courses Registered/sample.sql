@@ -1,0 +1,1 @@
+select StudId, count(courseID) as NOOFCOURSES from REGISTRATION group by StudID order by count(courseID) desc, StudID;

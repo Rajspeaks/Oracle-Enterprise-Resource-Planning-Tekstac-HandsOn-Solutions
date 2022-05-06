@@ -1,0 +1,1 @@
+select FirstName from STUDENT where FirstName like 'S%n'order by FirstName;

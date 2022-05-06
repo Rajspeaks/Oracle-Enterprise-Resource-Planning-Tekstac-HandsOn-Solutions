@@ -1,0 +1,1 @@
+select distinct(StudId) from REGISTRATION where extract(month from DOJ)=6 order by StudId asc;
