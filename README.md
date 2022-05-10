@@ -8,4 +8,5 @@ ERP software application suite introduced by Oracle Corporation in 2012. Oracle 
 To get a detailed view of Queires along with their solutions in docs format then click [here](https://github.com/Rajspeaks/Oracle-ERP-tekstac/tree/main/docs)
 
 ## Thank you
-&copy; &reg;
+
+### &copy Rajdeep Das
