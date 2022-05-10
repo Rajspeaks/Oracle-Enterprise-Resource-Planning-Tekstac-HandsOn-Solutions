@@ -9,4 +9,4 @@ To get a detailed view of Queires along with their solutions in docs format then
 
 ## Thank you
 
-### &copy Rajdeep Das
+### &copy; Rajdeep Das
