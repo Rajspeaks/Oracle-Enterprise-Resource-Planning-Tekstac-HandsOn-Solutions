@@ -1,6 +1,6 @@
 # Oracle Enterprise Resource Planning
 
-ERP software application suite introduced by Oracle Corporation in 2012. Oracle ERP Cloud manages enterprise functions including accounting, financial management, project management, and procurement. This repository consists of Oracle ERP SQL & PL/SQL Hands-on solutions on the tekstac. This has two sections:
+ERP software application suite introduced by Oracle Corporation in 2012. Oracle ERP Cloud manages enterprise functions including accounting, financial management, project management, and procurement. This repository consists of Oracle ERP SQL & PL/SQL Hands-on solutions on the tekstac. This repo has two sections:
 
 1. [SQL using Oracle (47 Solved Queries)](https://github.com/Rajspeaks/Oracle-ERP-tekstac/tree/main/Oracle%20ERP%20Tekstac%20SQL%20Solutions)
 2. [Oracle PL/SQL (14 Solved Queries)](https://github.com/Rajspeaks/Oracle-ERP-tekstac/tree/main/Oracle%20ERP%20Tekstac%20PL-SQL%20Solutions)
@@ -12,4 +12,4 @@ ERP software application suite introduced by Oracle Corporation in 2012. Oracle 
 
 ## Thank you
 
-### &copy; [Rajdeep Das](https://github.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rajspeaks)
+### &copy; [Rajdeep Das](https://github.com/Rajspeaks)
