@@ -10,6 +10,8 @@ ERP software application suite introduced by Oracle Corporation in 2012. Oracle 
 - LinkedIn: [Rajdeep Das](https://linkedin.com/in/itsrajdeepdas)
 - Twitter: [Rajdeep Das](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=itsrajdeepdas)
 
+If you have any query regarding this repo or its given solutions then you can raise issue or you also DM me on LinkedIn.
+
 ## Thank you
 
 ### &copy; [Rajdeep Das](https://github.com/Rajspeaks)
